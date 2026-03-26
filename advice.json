@@ -1,0 +1,261 @@
+{
+  "Tomato_healthy": {
+    "summary": "Plant healthy \u2705",
+    "actions": [
+      "Maintain good irrigation."
+    ],
+    "prevention": [
+      "Rotate crops."
+    ]
+  },
+  "Tomato_Late_blight": {
+    "summary": "Fungal disease.",
+    "actions": [
+      "Remove infected leaves.",
+      "Use Mancozeb."
+    ],
+    "prevention": [
+      "Avoid overhead watering."
+    ]
+  },
+  "Tomato_Leaf_Mold": {
+    "summary": "Dark concentric spots.",
+    "actions": [
+      "Use fungicides with chlorothalonil."
+    ],
+    "prevention": [
+      "Rotate crops."
+    ]
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "summary": "Small dark spots.",
+    "actions": [
+      "Remove leaves.",
+      "Apply copper fungicides."
+    ],
+    "prevention": [
+      "Keep leaves dry."
+    ]
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "summary": "Viral disease.",
+    "actions": [
+      "Destroy infected plants."
+    ],
+    "prevention": [
+      "Disinfect tools."
+    ]
+  },
+  "Potato___Early_blight": {
+    "summary": "Brown spots with rings.",
+    "actions": [
+      "Apply Mancozeb."
+    ],
+    "prevention": [
+      "Field sanitation."
+    ]
+  },
+  "Potato___Late_blight": {
+    "summary": "Dark lesions.",
+    "actions": [
+      "Destroy plants.",
+      "Apply fungicides."
+    ],
+    "prevention": [
+      "Avoid wet conditions."
+    ]
+  },
+  "Potato___healthy": {
+    "summary": "Plant healthy \u2705",
+    "actions": [
+      "No treatment needed."
+    ],
+    "prevention": [
+      "Good soil management."
+    ]
+  },
+  "Pepper__bell___Bacterial_spot": {
+    "summary": "Bacterial leaf spots.",
+    "actions": [
+      "Use copper bactericides."
+    ],
+    "prevention": [
+      "Rotate crops."
+    ]
+  },
+  "Pepper__bell___healthy": {
+    "summary": "Plant healthy \u2705",
+    "actions": [
+      "Standard care."
+    ],
+    "prevention": [
+      "Monitor regularly."
+    ]
+  },
+  "Corn_Blight": {
+    "summary": "Fungal disease causing large oval or irregular gray-green lesions on leaves.",
+    "actions": [
+      "Apply fungicides containing Mancozeb or Chlorothalonil at early symptoms."
+    ],
+    "prevention": [
+      "Rotate crops with non-host plants.",
+      "Plant resistant corn varieties."
+    ]
+  },
+  "Corn_Common_Rust": {
+    "summary": "Rust fungus producing reddish-brown pustules on upper and lower leaf surfaces.",
+    "actions": [
+      "Scout regularly and treat at early infection stages."
+    ],
+    "prevention": [
+      "Plant early to avoid peak rust pressure.",
+      "Improve field airflow with proper spacing."
+    ]
+  },
+  "Corn_Gray_Leaf_Spot": {
+    "summary": "Gray rectangular lesions that merge, reducing photosynthesis and yield.",
+    "actions": [
+      "Remove infected residue after harvest."
+    ],
+    "prevention": [
+      "Practice crop rotation.",
+      "Avoid excessive nitrogen which promotes lush foliage."
+    ]
+  },
+  "Corn_Healthy": {
+    "summary": "Corn crop is healthy.",
+    "actions": [
+      "Continue recommended irrigation and fertilization schedule.",
+      "Scout regularly to detect diseases early."
+    ],
+    "prevention": [
+      "Use certified disease-free seeds.",
+      "Maintain good field hygiene."
+    ]
+  },
+  "Rice_Bacterial_leaf_blight": {
+    "summary": "Bacterial disease causing yellowing and wilting of leaves from tip downwards.",
+    "actions": [
+      "Apply copper-based bactericides.",
+      "Avoid injuring plants during cultivation."
+    ],
+    "prevention": [
+      "Use resistant rice varieties.",
+      "Ensure proper water management to reduce disease spread."
+    ]
+  },
+  "Rice_Brown_spot": {
+    "summary": "Fungal disease causing brown circular spots with gray centers on leaves.",
+    "actions": [
+      "Improve field drainage to avoid waterlogging."
+    ],
+    "prevention": [
+      "Plant resistant rice varieties.",
+      "Maintain proper plant spacing for air circulation."
+    ]
+  },
+  "Rice_Leaf smut": {
+    "summary": "Fungal disease causing black sooty spots on leaves, reducing photosynthesis.",
+    "actions": [
+      "Remove severely infected plants to minimize spread."
+    ],
+    "prevention": [
+      "Use clean and disease-free seeds.",
+      "Maintain proper nutrition to boost plant resistance."
+    ]
+  },
+  "Black_Soil": {
+    "summary": "Clay-rich soil with high moisture retention, rich in lime, iron and magnesium. Ideal for long-duration crops.",
+    "ph_range": "7.0 \u2013 8.5",
+    "water_requirement": "Low to Moderate (retains moisture well)",
+    "npk_recommendation_kg_per_ha": {
+      "Nitrogen (N)": "80 \u2013 120",
+      "Phosphorus (P)": "40 \u2013 60",
+      "Potassium (K)": "40 \u2013 50"
+    },
+    "recommended_crops": [
+      "Cotton",
+      "Soybean",
+      "Sunflower",
+      "Millets",
+      "Pulses"
+    ]
+  },
+  "Cinder_Soil": {
+    "summary": "Volcanic-origin porous soil with good drainage but low nutrient holding capacity.",
+    "ph_range": "6.0 \u2013 7.5",
+    "water_requirement": "Moderate to High (due to high drainage)",
+    "npk_recommendation_kg_per_ha": {
+      "Nitrogen (N)": "120 \u2013 160",
+      "Phosphorus (P)": "60 \u2013 80",
+      "Potassium (K)": "50 \u2013 70"
+    },
+    "recommended_crops": [
+      "Vegetables",
+      "Maize",
+      "Groundnut",
+      "Pulses",
+      "Fruit crops"
+    ]
+  },
+  "Laterite_Soil": {
+    "summary": "Iron and aluminum-rich soil with low organic matter; requires fertilizer support.",
+    "ph_range": "5.0 \u2013 6.5",
+    "water_requirement": "Moderate",
+    "npk_recommendation_kg_per_ha": {
+      "Nitrogen (N)": "130 \u2013 170",
+      "Phosphorus (P)": "60 \u2013 90",
+      "Potassium (K)": "60 \u2013 90"
+    },
+    "recommended_crops": [
+      "Tea",
+      "Coffee",
+      "Cashew",
+      "Rubber",
+      "Coconut"
+    ]
+  },
+  "Peat_Soil": {
+    "summary": "High organic matter soil with high water retention but acidic nature.",
+    "ph_range": "3.5 \u2013 5.5",
+    "water_requirement": "Low (naturally retains water)",
+    "npk_recommendation_kg_per_ha": {
+      "Nitrogen (N)": "60 \u2013 100",
+      "Phosphorus (P)": "50 \u2013 70",
+      "Potassium (K)": "40 \u2013 60"
+    },
+    "recommended_crops": [
+      "Rice",
+      "Vegetables",
+      "Carrot",
+      "Onion",
+      "Spinach"
+    ]
+  },
+  "Yellow_Soil": {
+    "summary": "Light-textured soil with moderate fertility and good drainage.",
+    "ph_range": "5.5 \u2013 7.0",
+    "water_requirement": "Moderate",
+    "npk_recommendation_kg_per_ha": {
+      "Nitrogen (N)": "110 \u2013 150",
+      "Phosphorus (P)": "50 \u2013 70",
+      "Potassium (K)": "50 \u2013 70"
+    },
+    "recommended_crops": [
+      "Groundnut",
+      "Potato",
+      "Pulses",
+      "Maize",
+      "Millets"
+    ]
+  },
+  "Other_Crop": {
+    "summary": "The model detected a leaf, but not Tomato/Potato/Pepper/Rice/Corn.",
+    "actions": [
+      "Currently, only Tomato, Potato, Corn, Rice and Pepper are supported."
+    ],
+    "prevention": [
+      "Try uploading a supported crop leaf."
+    ]
+  }
+}
